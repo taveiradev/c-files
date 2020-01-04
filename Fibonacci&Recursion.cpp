@@ -6,7 +6,7 @@
 
 using namespace std;
 
-void fib(int, int, int b = 1, int c = 1);
+void fib(int, int a = 0, int b = 1, int c = 1);
 
 int main(){
 	
